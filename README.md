@@ -33,6 +33,8 @@ To write and execute an Assembly language program for finding the square of a gi
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
 
+# 8051 Cube  Program
+
 ## AIM
 To write and execute an Assembly language program for finding the cube of a given data using 8051 microcontroller in Keil software.
 
@@ -67,4 +69,4 @@ Thus, the cube of the given data is calculated using 8051 Keil.
 
 
 
-# 8051 Cube  Program
+
